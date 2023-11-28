@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClientServer_APP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClientServer_APP_jar</output-path>
+    <root id="archive" name="ClientServer_APP.jar">
+      <element id="module-output" name="ClientServer_APP" />
+    </root>
+  </artifact>
+</component>
